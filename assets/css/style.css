@@ -82,6 +82,16 @@ label {
 	position: relative; 
 	background-position-x: center;
 }
+#headSocial {
+	/*background: #181015 url( ../images/bg_header.jpg) no-repeat;*/
+	/*background-size: cover;
+	height: 600px;*/
+	text-align: center;
+	color: white;
+	font-weight: 300;
+	position: relative; 
+	background-position-x: center;
+}
 #head.secondary {
 	height: 100px;
 	min-height: 100px;
